@@ -6,7 +6,6 @@ public class Contador {
 		
         int parametroUm, parametroDois;
 		
-
         do {  
             System.out.println("Digite o primeiro parâmetro: ");
 		    parametroUm = terminal.nextInt();
