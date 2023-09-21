@@ -5,6 +5,7 @@ public class Contador {
 		Scanner terminal = new Scanner(System.in);
 		
         int parametroUm, parametroDois;
+		
 
         do {  
             System.out.println("Digite o primeiro parâmetro: ");
